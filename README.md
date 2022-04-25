@@ -1,7 +1,7 @@
 Hi 👋 My name is Varun Subba
 ============================
 
-Data Scientist
+Data Analyst
 --------------
 
 I am pursuing my undergraduate from Delhi University on B.A (Economics) with 1 year of experience as an Email customer service agent at Concentrix. Along with my degree, I'm well versed with skills like Python, Machine learning and statistic analysis
